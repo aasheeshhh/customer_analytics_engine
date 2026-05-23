@@ -1,5 +1,6 @@
 ## System Architecture
 
+```text
 Upload CSV
      ↓
 Schema Validation
@@ -8,7 +9,7 @@ Preprocessing
      ↓
 Feature Engineering
      ↓
-EDA
+Exploratory Data Analysis (EDA)
      ↓
 KMeans Clustering
      ↓
@@ -16,10 +17,10 @@ PCA Visualization
      ↓
 Churn Prediction
      ↓
-Business Insights
+Business Insights Generation
      ↓
-Dashboard
+Interactive Dashboard
      ↓
-PDF Report
+PDF Report Generation
      ↓
 Deployment
